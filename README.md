@@ -1,8 +1,15 @@
 # peduli_id
 
-```
+### disclaimer
+
 frontend only
-```
+
+this app not includes font, icon and img
+
+design by Hayin Ananta
+
+frontend by Ivan Faathirza
+
 
 ## Project setup
 ```
@@ -26,11 +33,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### disclaimer
-
-this app not includes font, icon and img
-
-#### design by Hayin Ananta
-
-#### frontend by Ivan Faathirza

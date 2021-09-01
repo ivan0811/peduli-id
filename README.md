@@ -29,9 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### disclaimer
 
-```
 this app not includes font, icon and img
-```
 
 #### design by Hayin Ananta
 

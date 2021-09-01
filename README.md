@@ -1,14 +1,14 @@
 # peduli_id
 
-### disclaimer
+### Disclaimer
 
-frontend only
+Frontend only
 
-this app not includes font, icon and img
+This app not includes font, icon and img
 
-design by Hayin Ananta
+Design by Hayin Ananta
 
-frontend by Ivan Faathirza
+Frontend by Ivan Faathirza
 
 
 ## Project setup

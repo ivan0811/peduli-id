@@ -1,0 +1,339 @@
+@font-face {
+    font-family: Gilroy;
+    src: url(../font/Gilroy-Medium.otf);
+}
+
+.font-header1 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 160px;
+}
+
+.font-header2 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 59px;
+}
+
+.font-header3 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 52px;
+}
+
+.font-subheader {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 145%;
+    letter-spacing: 0.04em;
+}
+
+.font-subheader2 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 25px;
+    letter-spacing: 0.10em;
+}
+
+.v-btn.font-button {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 22px;
+    text-transform: none;
+}
+
+.font-button-link {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 22px;
+    text-transform: none;
+    letter-spacing: 0.10em;
+}
+
+.font-button-link2 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 22px;
+    text-transform: none;
+    letter-spacing: 0.20em;
+}
+
+.font-text {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 124.5%;
+    /* or 17px */
+
+    letter-spacing: 0.04em;
+}
+
+.font-title-bold {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 124.5%;
+    letter-spacing: 0.04em;
+}
+
+.font-title {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 124.5%;
+    letter-spacing: 0.10em;
+}
+
+@media (max-width: 2280px) {
+    .font-header1 {
+        font-size: 90px;
+        line-height: 120px;
+    }
+
+    .font-header2 {
+        font-size: 60px;
+    }
+
+    .font-header3 {
+        font-size: 58px;
+    }
+
+    .font-subheader {
+        font-size: 32px;
+    }
+
+    .font-subheader2 {
+        font-size: 20px;
+    }
+
+    .v-btn.font-button {
+        font-size: 20px;
+    }
+
+    .font-button-link {
+        font-size: 20px;
+    }
+
+    .font-text {
+        font-size: 24px;
+    }
+
+    .font-title-bold {
+        font-size: 26px;
+    }
+
+    .font-title {
+        font-size: 18px;
+    }
+
+    .font-button-link2 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 1870px) {
+    .font-header1 {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .font-header2 {
+        font-size: 60px;
+    }
+
+    .font-header3 {
+        font-size: 58px;
+    }
+
+    .font-subheader {
+        font-size: 27px;
+    }
+
+    .font-subheader2 {
+        font-size: 23px;
+    }
+
+    .v-btn.font-button {
+        font-size: 20px;
+    }
+
+    .font-button-link {
+        font-size: 20px;
+    }
+
+    .font-text {
+        font-size: 24px;
+    }
+
+    .font-title-bold {
+        font-size: 23px;
+    }
+
+    .font-title {
+        font-size: 20px;
+    }
+
+    .font-button-link2 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 1800px) {
+    .font-header1 {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .font-header2 {
+        font-size: 58px;
+    }
+
+    .font-header3 {
+        font-size: 56px;
+    }
+
+    .font-subheader {
+        font-size: 27px;
+    }
+
+    .font-subheader2 {
+        font-size: 23px;
+    }
+
+    .v-btn.font-button {
+        font-size: 18px;
+    }
+
+    .font-button-link {
+        font-size: 18px;
+    }
+
+    .font-text {
+        font-size: 24px;
+    }
+
+    .font-title-bold {
+        font-size: 23px;
+    }
+
+    .font-title {
+        font-size: 18px;
+    }
+
+    .font-button-link2 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 1776px) {
+    .font-header1 {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .font-header2 {
+        font-size: 58px;
+    }
+
+    .font-header3 {
+        font-size: 56px;
+    }
+
+    .font-subheader {
+        font-size: 27px;
+    }
+
+    .font-subheader2 {
+        font-size: 20px;
+    }
+
+    .v-btn.font-button {
+        font-size: 18px;
+    }
+
+    .font-button-link {
+        font-size: 18px;
+    }
+
+    .font-text {
+        font-size: 18px;
+    }
+
+    .font-title-bold {
+        font-size: 19px;
+    }
+
+    .font-title {
+        font-size: 19px;
+    }
+
+    .font-button-link2 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1559px) {
+    .font-header1 {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+    .font-header2 {
+        font-size: 40px;
+    }
+
+    .font-header3 {
+        font-size: 38px;
+    }
+
+    .font-subheader {
+        font-size: 23px;
+    }
+
+    .font-subheader2 {
+        font-size: 20px;
+    }
+
+    .v-btn.font-button {
+        font-size: 13px;
+    }
+
+    .font-button-link {
+        font-size: 15px;
+    }
+
+    .font-text {
+        font-size: 14px;
+    }
+
+    .font-title-bold {
+        font-size: 16px;
+    }
+
+    .font-title {
+        font-size: 16px;
+    }
+
+    .font-button-link2 {
+        font-size: 16px;
+    }
+}

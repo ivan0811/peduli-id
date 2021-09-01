@@ -1,0 +1,31 @@
+.animation-fade-left-in{         
+    position: relative;
+    animation: fadeLeftIn 2s normal;       
+}
+
+.animation-fade-right-in{         
+    position: relative;
+    animation: fadeRightIn 2s normal;       
+}
+
+@keyframes fadeLeftIn {
+    from {
+        opacity: 0.5;
+        left: -50px;
+    }
+    to {
+        opacity: 1;
+        left: 0px;
+    }
+  }
+
+  @keyframes fadeRightIn {
+    from {
+        opacity: 0.5;
+        right: -50px;
+    }
+    to {
+        opacity: 1;
+        right: 0px;
+    }
+  }

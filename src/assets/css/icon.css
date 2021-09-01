@@ -1,0 +1,75 @@
+.icon-arrow-left{
+    -webkit-mask-image: url(../icon/arrow_left.svg);
+}
+
+.icon-arrow-right{
+    -webkit-mask-image: url(../icon/arrow_right.svg);
+}
+
+.icon-arrow-right-sm{
+    -webkit-mask-image: url(../icon/arrow_right_sm.svg);
+}
+
+.icon-haruki{
+    -webkit-mask-image: url(../icon/haruki_icons.svg);
+}
+
+.icon-instagram{
+    -webkit-mask-image: url(../icon/instagram.svg);
+}
+
+.icon-linkedin{
+    -webkit-mask-image: url(../icon/linkedin.svg);
+}
+
+.icon-twitter{
+    -webkit-mask-image: url(../icon/twitter.svg);
+}
+
+.icon-menu{
+    -webkit-mask-image: url(../icon/menu.svg);
+}
+
+.icon{
+    display: inline-block;
+    width: 100%;
+    -webkit-mask-position: 50%;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.icon-24{
+    height: 24px;
+}
+
+.icon-16{
+    height: 16px;
+}
+
+.icon-32{
+    height: 32px;
+}
+
+.icon.icon-mask{
+    -webkit-mask-size: cover;
+    -webkit-mask-position: auto;
+}
+
+.icon.grey-dark{
+    background-color: #9A9590;
+}
+
+.icon.active{
+    background-color: #CC915A;
+}
+
+.icon.white{
+    background-color: #fff;
+}
+
+.icon.blue{
+    background-color: #5A95CC;
+}
+
+.icon.black{
+    background-color: black;
+}

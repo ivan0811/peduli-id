@@ -1,0 +1,93 @@
+.elipse{
+    position: absolute;
+    width: 116px;
+    height: 116px;    
+    border-radius: 60px;    
+
+    background: #FC7E40;
+    filter: blur(100px);
+
+    z-index: 0;
+}
+
+
+.rectangle7{
+    z-index: 1;
+    position: absolute;    
+    width: 20%;
+    height: 15%;     
+    bottom: 30px;
+    right: 100px;
+    background: rgba(252, 126, 64, 0.5);
+
+}
+
+.rectangle1{
+    position: absolute;
+    width: 255.99px;
+    height: 255.99px;    
+
+    background: rgba(255, 255, 255, 0.01);
+    transform: rotate(-24.72deg);
+}
+
+.rectangle2{
+    position: absolute;
+    width: 162.9px;
+    height: 196.38px;    
+    
+    background: rgba(255, 255, 255, 0.01);
+    transform: rotate(-24.72deg);
+}
+
+.rectangle3{
+    position: absolute;
+    width: 139.47px;
+    height: 139.47px;    
+    
+    background: rgba(31, 31, 31, 0.04);
+    transform: rotate(-24.72deg);
+    
+}
+
+.rectangle4{
+    position: absolute;
+    width: 88.76px;
+    height: 106.99px;    
+    
+    background: rgba(31, 31, 31, 0.04);
+    transform: rotate(-24.72deg);    
+}
+
+.rectangle5{
+    position: absolute;
+    width: 329.17px;
+    height: 329.17px;    
+
+    background: rgba(255, 255, 255, 0.01);
+    transform: rotate(-24.72deg);
+}
+
+.rectangle6{
+    position: absolute;
+    width: 209.48px;
+    height: 252.52px;    
+
+    background: rgba(255, 255, 255, 0.01);
+    transform: rotate(-24.72deg);
+}
+
+@media (max-width: 1061px) {
+    .elipse,    
+    .rectangle1,    
+    .rectangle2,    
+    .rectangle3,    
+    .rectangle4,    
+    .rectangle5,    
+    .rectangle6,
+    .rectangle7{
+        display: none;
+    }
+  }
+
+  
